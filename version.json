@@ -1,0 +1,16 @@
+{
+  "version": "1.0.1",
+  "title": "Bản cập nhật v1.0.1 - Nâng cấp FB Automation & Sửa lỗi Nhóm Profile",
+  "release_date": "2026-10-15",
+  "changelog": [
+    "Sửa triệt để lỗi chọn nhóm Profile bị nhảy về nhóm Mặc định khi click ra ngoài modal",
+    "Tương tác Target Users: 30% Thả cảm xúc (70% Like / 30% Tim), 5% Bình luận",
+    "Bình luận theo danh sách trong cấu hình kịch bản (mỗi câu/từ 1 dòng, chọn ngẫu nhiên)",
+    "Sau khi bấm gửi bình luận: Chờ 5 - 10 giây để bình luận đăng hoàn tất rồi đóng bài lướt tiếp",
+    "Giao diện trực quan: Thêm ô nhập danh sách câu bình luận kèm badge đếm số câu tự động",
+    "Tích hợp hệ thống popup thông báo và tự động cập nhật app qua GitHub Releases"
+  ],
+  "download_url": "https://github.com/DMTam/dmt-browser-dist/releases/download/v1.0.1/update_v1.0.1.zip",
+  "installer_url": "https://github.com/DMTam/dmt-browser-dist/releases/download/v1.0.1/DMT_Browser_Setup_v1.0.1.exe",
+  "size_mb": 1.05
+}
